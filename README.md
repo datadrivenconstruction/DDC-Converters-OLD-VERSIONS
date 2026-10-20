@@ -2,7 +2,9 @@
   <img src="https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png" alt="DDC Logo" width="200"/>
 </p>
 
-# 🧰 CAD/BIM Community Converters OLD VERSIONS
+# 🧰 CAD/BIM Community Converters: Earlier Versions
+
+Archive of earlier-version downloads of the DDC Community converters. For the current DDC Converters 2.0, see [cad2data-Revit-IFC-DWG](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG).
 
 
 Offline `.exe` tools to convert Revit®, IFC, DWG and DGN files into structured data (Excel, PDF, DAE, etc).  
@@ -17,7 +19,7 @@ Offline `.exe` tools to convert Revit®, IFC, DWG and DGN files into structured 
 | `RvtExporter.exe` | Converts `.rvt` Revit® models to Excel + optional PDF sheets, schedules, and geometry | Revit® 2017–2025 | ✅ |
 | `IfcExporter.exe` | Converts `.ifc` (Industry Foundation Classes) models to Excel + DAE geometry | IFC2x3, IFC4x1, IFC4x4, IFC4x, IFC4.3 | ✅ |
 | `DwgExporter.exe` | Converts `.dwg` CAD files (2D/3D) to Excel tables | DWG 2007–2024 | ✅ |
-| `DgnExporter.exe` | Converts `.dgn` MicroStation® files to Excel tables (beta) | DGN V7, V8 | ✅ |
+| `DgnExporter.exe` | Converts `.dgn` MicroStation® files to Excel tables | DGN V7, V8 | ✅ |
 
 All converters are **portable**, **standalone** `.exe` files (Windows only).
 
